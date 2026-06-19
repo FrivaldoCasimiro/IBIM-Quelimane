@@ -1,0 +1,6 @@
+{
+  "name": "IBI Quelimane",
+  "description": "App completo e funcional 100% offline para pastores, levitas, secretários e dirigentes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
